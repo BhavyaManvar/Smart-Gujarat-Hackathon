@@ -8,7 +8,10 @@ Sector = Smart Cities & Urban Governance
 
 Roles =
 Bhavya, dhairya = Backend
+
 Bhavik, ved = Frontend
+
 Deep, Ronny = train AI
+
 Dharshil = database
 
